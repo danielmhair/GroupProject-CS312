@@ -1,0 +1,13 @@
+C:\Users\Richard\Desktop\312 projects\TSPBranchAndBound\TSPBranchAndBound\for-distribution\TSP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\312 projects\TSPBranchAndBound\TSPBranchAndBound\for-distribution\TSP\obj\Release\TSP.Form1.resources
+C:\Users\Richard\Desktop\312 projects\TSPBranchAndBound\TSPBranchAndBound\for-distribution\TSP\obj\Release\TSP.Properties.Resources.resources
+C:\Users\Richard\Desktop\312 projects\TSPBranchAndBound\TSPBranchAndBound\for-distribution\TSP\obj\Release\TSP.csproj.GenerateResource.Cache
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\bin\Release\TSP.exe.config
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\bin\Release\TSP.exe
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\bin\Release\TSP.pdb
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\bin\Release\C5.dll
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\obj\Release\TSP.mainform.resources
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\obj\Release\TSP.Properties.Resources.resources
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\obj\Release\TSP.csproj.GenerateResource.Cache
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\obj\Release\TSP.exe
+C:\Users\Daniel Hair\Workspace\CS312\TSPBranchAndBound\TSP\obj\Release\TSP.pdb
